@@ -1,0 +1,25 @@
+Total users: 3
+Total tasks: 5
+
+
+User: admin
+Total tasks assigned: 2
+Percentage of total tasks: 40.00%
+Percentage of completed tasks: 0.00%
+Percentage of tasks to be completed: 100.00%
+Percentage of overdue tasks: 50.00%
+                                    
+User: lumeknox
+Total tasks assigned: 2
+Percentage of total tasks: 40.00%
+Percentage of completed tasks: 50.00%
+Percentage of tasks to be completed: 50.00%
+Percentage of overdue tasks: 0.00%
+                                    
+User: Yuri
+Total tasks assigned: 1
+Percentage of total tasks: 20.00%
+Percentage of completed tasks: 0.00%
+Percentage of tasks to be completed: 100.00%
+Percentage of overdue tasks: 0.00%
+                                    
